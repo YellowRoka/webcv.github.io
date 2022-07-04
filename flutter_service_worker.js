@@ -3,16 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "42a6cd6b61143d996603241d91adf013",
+  "assets/AssetManifest.json": "0f5b459cc1d64bfde3f1de3a39871a9c",
 "assets/assets/bb.jpg": "2b2ce76b50d822a9ede167d646de7a80",
 "assets/assets/bg.jpg": "9add6610748b5f1fc5e3f40aafa6733f",
 "assets/assets/evosoft.jpg": "dfd4bbacb14cd1da899bc3667ac55acb",
-"assets/assets/jsons/basedata.json": "ca372d18e41fc20d6a19ba51506110fc",
-"assets/assets/jsons/jobs.json": "52d52950a2e7662cf8e18e32e2b7e9fd",
+"assets/assets/jsons/basedata.json": "9ce34e3fc7451e960e968838bbffa793",
+"assets/assets/jsons/jobs.json": "dce0c2ed301de6cd9175e8c57ac91afe",
 "assets/assets/masterfield.jpg": "5a9e96d83a6ae38fb30ad996dd8ac7b4",
 "assets/assets/me.jpg": "0d0e6083c0542a00731d57917a1232c9",
 "assets/assets/mentor.jpg": "5a3c3b0dae34299f258a01b8a04696a7",
-"assets/assets/mzx.jpg": "bf9eb3c42ee34875ab9e2a89267d6eea",
+"assets/assets/mza.jpg": "bf9eb3c42ee34875ab9e2a89267d6eea",
+"assets/assets/mzx.png": "ec890639c152ada8912dd7dfdd615f6d",
+"assets/assets/vendo.png": "97c0a1fbb4864bf21e8fa4bafe19cf3b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "bd980c1001f2ffe3a91fb076f5b89164",
@@ -27,8 +29,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d950334025c2812a9a92d02a1c8b20c8",
-"/": "d950334025c2812a9a92d02a1c8b20c8",
+"index.html": "d05050b6c9f66f4b7a343fafeefe5426",
+"/": "d05050b6c9f66f4b7a343fafeefe5426",
 "main.dart.js": "42f6b94adea885d0daf949f2d08d1ecd",
 "manifest.json": "c964384f18ab55b84c5c8b2a8131db43",
 "version.json": "5f96fdb0ee3a40fd3ef505ec3cf4252d"
