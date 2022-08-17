@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f623b27dabbc5b4a3f490bc07cc5c349",
+  "assets/AssetManifest.json": "af1dab824ee37acd92ca3cfe11516159",
 "assets/assets/bb.jpg": "2b2ce76b50d822a9ede167d646de7a80",
 "assets/assets/bg.jpg": "9add6610748b5f1fc5e3f40aafa6733f",
 "assets/assets/evosoft.jpg": "dfd4bbacb14cd1da899bc3667ac55acb",
@@ -14,7 +14,8 @@ const RESOURCES = {
 "assets/assets/mentor.jpg": "5a3c3b0dae34299f258a01b8a04696a7",
 "assets/assets/mza.jpg": "bf9eb3c42ee34875ab9e2a89267d6eea",
 "assets/assets/mzx.png": "ec890639c152ada8912dd7dfdd615f6d",
-"assets/assets/pdf/cv.pdf": "c3b248f2b8324c957f0ed09cfefa89ed",
+"assets/assets/pdf/cv.pdf": "c06d9b94ef119d7c940b075e0f716944",
+"assets/assets/pdf/old_cv.pdf": "c3b248f2b8324c957f0ed09cfefa89ed",
 "assets/assets/vendo.png": "80d8346d8d4bc7387f190309ca4e7c42",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -30,11 +31,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1da183e03d64a7b6b123dae50567c712",
-"/": "1da183e03d64a7b6b123dae50567c712",
-"main.dart.js": "8c2511f44816d7fb89a52688b907fccb",
+"index.html": "0ddfce84624f7cd848a29d121b132a2c",
+"/": "0ddfce84624f7cd848a29d121b132a2c",
+"main.dart.js": "d59090b06e70c68e3251d71650e3d3cb",
 "manifest.json": "c964384f18ab55b84c5c8b2a8131db43",
-"version.json": "5f96fdb0ee3a40fd3ef505ec3cf4252d"
+"version.json": "329ccf0d7c1ca0b8c65bef288e74e6e2"
 };
 
 // The application shell files that are downloaded before a service worker can
